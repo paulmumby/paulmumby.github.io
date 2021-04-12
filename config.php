@@ -1,6 +1,6 @@
 <?php
 define( 'ROOT_DIR', dirname( __FILE__ ) );
-$root = "http://192.168.1.6/translatingnature.org/public";
+$root = "https://paulmumby.github.io";
 $path = $root . "/";
 
 $projects = array();
